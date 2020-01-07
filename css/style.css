@@ -1,0 +1,43 @@
+/* base styles */
+*, html, body {
+  margin: 0 auto;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Nunito', sans-serif;
+  font-family: 'Roboto', sans-serif;
+  font-family: 'Raleway', sans-serif;
+}
+
+
+/***** header *****/
+header {
+
+
+}
+
+header li {
+  list-style-type: none;
+}
+
+
+/***** portfolio *****/
+
+
+/***** contact *****/
+
+
+
+
+/***********************  responsive  ******************/
+
+/* mobile phone*/
+@media (min-width: 320px) {
+  header {
+
+  }
+}
+
+
+@media (min-width: 768px) {
+
+}
